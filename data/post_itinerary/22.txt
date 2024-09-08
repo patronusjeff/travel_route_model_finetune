@@ -1,0 +1,23 @@
+{
+    "city": ["墨尔本"],
+    "location": {
+        "墨尔本": ["墨尔本大学", "Carlton garden", "圣巴特利爵主教座堂", "州立图书馆", "Flinders station 圣保罗大教堂", "涂鸦街"]
+    },
+    "accommodation": {
+        "墨尔本": []
+    },
+    "restaurant": {
+        "墨尔本": []
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"墨尔本": "墨尔本大学"},
+            {"墨尔本": "Carlton garden"},
+            {"墨尔本": "圣巴特利爵主教座堂"},
+            {"墨尔本": "州立图书馆"},
+            {"墨尔本": "Flinders station 圣保罗大教堂"},
+            {"墨尔本": "涂鸦街"}
+        ]
+    ]
+}

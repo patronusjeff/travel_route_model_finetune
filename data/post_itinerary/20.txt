@@ -1,0 +1,33 @@
+{
+    "city": ["伊斯坦布尔"],
+    "location": {
+        "伊斯坦布尔": ["Taksim", "索菲亚大教堂", "蓝色清真寺", "Balat", "加拉达石塔", "托卡比皇宫"]
+    },
+    "accommodation": {
+        "伊斯坦布尔": []
+    },
+    "restaurant": {
+        "伊斯坦布尔": ["Suat Usta Mersin Tantuni", "Borisin Yeri", "Seven Hills", "Karaoke Gulluoglu", "Cengelkoy Kokorecci", "Half Mustafa 1864"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"伊斯坦布尔": "Suat Usta Mersin Tantuni"},
+            {"伊斯坦布尔": "Taksim"}
+        ],
+        [
+            {"伊斯坦布尔": "Borisin Yeri"},
+            {"伊斯坦布尔": "索菲亚大教堂"},
+            {"伊斯坦布尔": "蓝色清真寺"},
+            {"伊斯坦布尔": "Balat"},
+            {"伊斯坦布尔": "Seven Hills"},
+            {"伊斯坦布尔": "Karaoke Gulluoglu"},
+            {"伊斯坦布尔": "加拉达石塔"}
+        ],
+        [
+            {"伊斯坦布尔": "托卡比皇宫"},
+            {"伊斯坦布尔": "Cengelkoy Kokorecci"},
+            {"伊斯坦布尔": "Half Mustafa 1864"}
+        ]
+    ]
+}

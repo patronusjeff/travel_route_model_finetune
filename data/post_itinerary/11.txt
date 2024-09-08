@@ -1,0 +1,47 @@
+{
+    "city": ["清迈", "广州"],
+    "location": {
+        "清迈": ["女子监狱按摩", "塔佩门", "chang moi kao road", "宁曼路1号", "white market", "JJ市集", "椰林市集", "sense massage &spa", "粘粘瀑布", "天使瀑布"],
+        "广州": []
+    },
+    "accommodation": {
+        "清迈": ["crew hotel"],
+        "广州": []
+    },
+    "restaurant": {
+        "清迈": ["black gooseberry chiangmai", "kao soy nimman", "孟买市场", "冠军抛打饭", "กะเพราตาหนวด", "อันดาหมูกะทะ&ซีฟู้ด เชียงใหม่", "大象咖啡", "船面3baht noddle", "no.39咖啡", "roast8ry lab", "sanaethaicuisine"],
+        "广州": []
+    },
+    "app_recommend": ["小红书"],
+    "itinerary": [
+        [
+            {"清迈": "crew hotel"},
+            {"清迈": "black gooseberry chiangmai"},
+            {"清迈": "女子监狱按摩"},
+            {"清迈": "kao soy nimman"},
+            {"清迈": "塔佩门"},
+            {"清迈": "chang moi kao road"},
+            {"清迈": "孟买市场"},
+            {"清迈": "宁曼路1号"},
+            {"清迈": "white market"}
+        ],
+        [
+            {"清迈": "JJ市集"},
+            {"清迈": "椰林市集"},
+            {"清迈": "冠军抛打饭"},
+            {"清迈": "sense massage &spa"},
+            {"清迈": "อันดาหมูกะทะ&ซีฟู้ด เชียงใหม่"}
+        ],
+        [
+            {"清迈": "粘粘瀑布"},
+            {"清迈": "天使瀑布"},
+            {"清迈": "大象咖啡"}
+        ],
+        [
+            {"清迈": "船面3baht noddle"},
+            {"清迈": "no.39咖啡"},
+            {"清迈": "roast8ry lab"},
+            {"清迈": "sanaethaicuisine"}
+        ]
+    ]
+}

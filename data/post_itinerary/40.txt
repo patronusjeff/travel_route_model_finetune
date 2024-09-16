@@ -1,0 +1,38 @@
+{
+    "city": ["纽约"],
+    "location": {
+        "纽约": ["Wall Street", "自由女神", "布鲁克林桥", "911遗址纪念公园", "帝国大厦", "时代广场", "洛克菲勒中心", "纽约公共图书馆", "中央车站", "MoMA", "中央公园", "Central Park Zoo", "博格道夫好人", "大都会博物馆", "古根海姆"]
+    },
+    "accommodation": {
+        "纽约": ["Casa Cipiriani", "Langham New York", "Peninsula New York"]
+    },
+    "restaurant": {
+        "纽约": ["Hiroshisa", "Aquavit", "The Modern MoMA", "Le Bernardin", "Luke’s Lobster", "Shake Shack", "肯德基"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"纽约": "Wall Street"},
+            {"纽约": "自由女神"},
+            {"纽约": "布鲁克林桥"},
+            {"纽约": "911遗址纪念公园"}
+        ],
+        [
+            {"纽约": "帝国大厦"},
+            {"纽约": "时代广场"},
+            {"纽约": "洛克菲勒中心"},
+            {"纽约": "纽约公共图书馆"},
+            {"纽约": "中央车站"}
+        ],
+        [
+            {"纽约": "MoMA"},
+            {"纽约": "中央公园"},
+            {"纽约": "Central Park Zoo"},
+            {"纽约": "博格道夫好人"}
+        ],
+        [
+            {"纽约": "大都会博物馆"},
+            {"纽约": "古根海姆"}
+        ]
+    ]
+}

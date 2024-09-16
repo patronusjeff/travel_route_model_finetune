@@ -1,0 +1,20 @@
+{
+    "city": ["多伦多"],
+    "location": {
+        "多伦多": ["Casa Loma", "CN Tower", "City Cruises"]
+    },
+    "accommodation": {
+        "多伦多": []
+    },
+    "restaurant": {
+        "多伦多": []
+    },
+    "app_recommend": ["City Pass"],
+    "itinerary": [
+        [
+            {"多伦多": "Casa Loma"},
+            {"多伦多": "CN Tower"},
+            {"多伦多": "City Cruises"}
+        ]
+    ]
+}

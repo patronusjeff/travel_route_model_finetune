@@ -1,0 +1,23 @@
+{
+    "city": ["迪拜"],
+    "location": {
+        "迪拜": ["jumeriah市集", "帆船酒店", "AI SEEF老城区", "Dubai Mall音乐喷泉", "哈利佛塔", "Place Downtown"]
+    },
+    "accommodation": {
+        "迪拜": []
+    },
+    "restaurant": {
+        "迪拜": ["costa咖啡廳", "最美星巴克", "AL KHAYMA HERITAGE RESTAURANT", "Texas Roadhouse 牛排店"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"迪拜": "jumeriah市集"},
+            {"迪拜": "AL KHAYMA HERITAGE RESTAURANT"},
+            {"迪拜": "AI SEEF老城区"},
+            {"迪拜": "Dubai Mall音乐喷泉"},
+            {"迪拜": "哈利佛塔"},
+            {"迪拜": "Texas Roadhouse 牛排店"}
+        ]
+    ]
+}

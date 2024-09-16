@@ -1,0 +1,32 @@
+{
+    "city": ["哈瓦那"],
+    "location": {
+        "哈瓦那": ["哈瓦那国家美术博物馆Museo Nacional de Bellas Artes", "国会大厦", "哈瓦那大剧院", "革命广场", "大教堂广场", "武器广场", "中国城", "圣弗朗西斯科广场", "工艺品市场Almacenes San Jose Artisan's Market", "莫罗城堡Castillo de los Tres Reyes del Morro", "艺术工厂Cuban Art Factory"]
+    },
+    "accommodation": {
+        "哈瓦那": []
+    },
+    "restaurant": {
+        "哈瓦那": ["五分钱小酒馆", "El Floridita Bar"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"哈瓦那": "哈瓦那国家美术博物馆Museo Nacional de Bellas Artes"},
+            {"哈瓦那": "国会大厦"},
+            {"哈瓦那": "哈瓦那大剧院"},
+            {"哈瓦那": "革命广场"},
+            {"哈瓦那": "大教堂广场"},
+            {"哈瓦那": "武器广场"},
+            {"哈瓦那": "中国城"},
+            {"哈瓦那": "圣弗朗西斯科广场"},
+            {"哈瓦那": "五分钱小酒馆"},
+            {"哈瓦那": "El Floridita Bar"}
+        ],
+        [
+            {"哈瓦那": "工艺品市场Almacenes San Jose Artisan's Market"},
+            {"哈瓦那": "莫罗城堡Castillo de los Tres Reyes del Morro"},
+            {"哈瓦那": "艺术工厂Cuban Art Factory"}
+        ]
+    ]
+}

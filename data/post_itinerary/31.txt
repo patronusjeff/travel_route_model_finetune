@@ -1,0 +1,19 @@
+{
+    "city": ["阿姆斯特丹"],
+    "location": {
+        "阿姆斯特丹": ["Negen Straatjes De 9 Straatjes", "dam", "damrak", "residence flower market", "女王百货购物"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "阿姆斯特丹": ["fable friet"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"阿姆斯特丹": "Negen Straatjes De 9 Straatjes"},
+            {"阿姆斯特丹": "dam"},
+            {"阿姆斯特丹": "damrak"},
+            {"阿姆斯特丹": "residence flower market"}
+        ]
+    ]
+}

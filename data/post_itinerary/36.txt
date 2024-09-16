@@ -1,0 +1,34 @@
+{
+    "city": ["柏林"],
+    "location": {
+        "柏林": ["德国国会大厦", "勃兰登堡门", "欧洲被害犹太人纪念碑", "德意志间谍博物馆", "柏林犹太人博物馆", "恐怖地形图", "东边画廊", "Fotografiska Museum Berlin", "博物馆岛", "柏林大教堂"]
+    },
+    "accommodation": {
+        "柏林": ["INTERCITYHOTEL BERLIN BRANDENBURG AIRPORT北区城际酒店", "HOTEL CITY B BERLIN CENTRUN诺富姆城市酒店"]
+    },
+    "restaurant": {
+        "柏林": ["ShooLoongKan HotPot 小龙坎 老火锅", "COMEBUY Berlin City West", "HARIBO Shop Berlin", "LIU 成都味道面馆 Nudelhaus", "Keyu Café"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"柏林": "德国国会大厦"},
+            {"柏林": "勃兰登堡门"},
+            {"柏林": "欧洲被害犹太人纪念碑"},
+            {"柏林": "德意志间谍博物馆"},
+            {"柏林": "ShooLoongKan HotPot 小龙坎 老火锅"},
+            {"柏林": "COMEBUY Berlin City West"},
+            {"柏林": "HARIBO Shop Berlin"},
+            {"柏林": "柏林犹太人博物馆"},
+            {"柏林": "恐怖地形图"}
+        ],
+        [
+            {"柏林": "东边画廊"},
+            {"柏林": "LIU 成都味道面馆 Nudelhaus"},
+            {"柏林": "Fotografiska Museum Berlin"},
+            {"柏林": "Keyu Café"},
+            {"柏林": "博物馆岛"},
+            {"柏林": "柏林大教堂"}
+        ]
+    ]
+}

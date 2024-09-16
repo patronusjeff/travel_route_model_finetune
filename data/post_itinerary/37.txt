@@ -1,0 +1,31 @@
+{
+    "city": ["Roma"],
+    "location": {
+        "Roma": ["Campo de' Fiori 鲜花广场", "Piazza Navona 纳沃纳广场", "Pantheon 万神殿", "Fontana di Trevi 许愿池", "Piazza di Spagna 西班牙广场", "Colosseum斗兽场", "Palatine Hill 帕拉丁山", "Roman Forum 古罗马广场", "Arch of Constantine 君士坦丁凯旋门", "Piazza Venezia 威尼斯广场", "Galleria Borghese 博尔盖塞美术馆", "Giardino degli Aranci 橘园"]
+    },
+    "accommodation": {
+        "Roma": ["Relais Monti"]
+    },
+    "restaurant": {
+        "Roma": ["Fuorinorma", "Saltimbocca Ristorante"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"Roma": "Campo de' Fiori 鲜花广场"},
+            {"Roma": "Piazza Navona 纳沃纳广场"},
+            {"Roma": "Pantheon 万神殿"},
+            {"Roma": "Fontana di Trevi 许愿池"},
+            {"Roma": "Piazza di Spagna 西班牙广场"}
+        ],
+        [
+            {"Roma": "Colosseum 斗兽场"},
+            {"Roma": "Palatine Hill 帕拉丁山"},
+            {"Roma": "Roman Forum 古罗马广场"},
+            {"Roma": "Arch of Constantine 君士坦丁凯旋门"},
+            {"Roma": "Piazza Venezia 威尼斯广场"},
+            {"Roma": "Galleria Borghese 博尔盖塞美术馆"},
+            {"Roma": "Giardino degli Aranci 橘园"}
+        ]
+    ]
+}

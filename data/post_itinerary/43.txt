@@ -1,0 +1,35 @@
+{
+    "city": ["巴塞罗那"],
+    "location": {
+        "巴塞罗那": ["圣家堂", "巴特罗之家", "桂尔公园", "焦糖山", "叹息桥", "兰布拉大道", "卡纳雷特斯喷泉", "哥伦布纪念碑", "旧港", "Barceloneta Beach"]
+    },
+    "accommodation": {
+        "巴塞罗那": ["Sercotel Hotel Rosellon"]
+    },
+    "restaurant": {
+        "巴塞罗那": ["Restaurant la Llesca", "Vinitus", "Pastisseria Escribà"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"巴塞罗那": "圣家堂"},
+            {"巴塞罗那": "Restaurant la Llesca"}
+        ],
+        [
+            {"巴塞罗那": "巴特罗之家"},
+            {"巴塞罗那": "Vinitus"},
+            {"巴塞罗那": "桂尔公园"},
+            {"巴塞罗那": "焦糖山"}
+        ],
+        [
+            {"巴塞罗那": "圣家堂"},
+            {"巴塞罗那": "Pastisseria Escribà"},
+            {"巴塞罗那": "叹息桥"},
+            {"巴塞罗那": "兰布拉大道"},
+            {"巴塞罗那": "卡纳雷特斯喷泉"},
+            {"巴塞罗那": "哥伦布纪念碑"},
+            {"巴塞罗那": "旧港"},
+            {"巴塞罗那": "Barceloneta Beach"}
+        ]
+    ]
+}

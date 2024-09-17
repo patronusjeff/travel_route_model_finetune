@@ -1,0 +1,10 @@
+{
+    "city": ["东京"],
+    "location": {
+        "东京": ["涉谷sky", "六本木hills展望台", "东京铁塔"]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

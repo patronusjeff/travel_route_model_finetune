@@ -1,0 +1,12 @@
+{
+    "city": ["巴黎"],
+    "location": {
+        "巴黎": ["香街"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "巴黎": ["Le Relais de l’Entrecôte"]
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

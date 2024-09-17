@@ -1,0 +1,14 @@
+{
+    "city": ["巴黎"],
+    "location": {
+        "巴黎": []
+    },
+    "accommodation": {
+        "巴黎": ["巴黎星辰广场凯悦酒店 (Hyatt Regency Paris Etoile)"]
+    },
+    "restaurant": {
+        "巴黎": []
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

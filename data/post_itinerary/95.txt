@@ -1,0 +1,10 @@
+{
+    "city": ["澳门"],
+    "location": {},
+    "accommodation": {
+        "澳门": ["澳门巴黎人酒店", "澳门伦敦人酒店", "澳门瑞吉酒店", "澳门威尼斯人酒店"]
+    },
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

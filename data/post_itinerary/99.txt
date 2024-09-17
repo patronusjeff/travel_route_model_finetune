@@ -1,0 +1,10 @@
+{
+    "city": ["贝尔格莱德"],
+    "location": {
+        "贝尔格莱德": ["圣萨瓦教堂", "中国驻南联盟大使馆遗址", "泽蒙小镇", "Gardos Tower"]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

@@ -1,0 +1,12 @@
+{
+    "city": ["首爾"],
+    "location": {},
+    "accommodation": {
+        "首爾": ["新羅飯店(Shilla Hotel)"]
+    },
+    "restaurant": {
+        "首爾": ["羅宴(La Yeon)"]
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

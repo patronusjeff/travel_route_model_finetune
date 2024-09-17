@@ -1,0 +1,10 @@
+{
+    "city": ["新加坡"],
+    "location": {},
+    "accommodation": {
+        "新加坡": ["Parkroyal Pickering"]
+    },
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

@@ -1,0 +1,12 @@
+{
+    "city": ["曼谷"],
+    "location": {
+        "曼谷": ["像素大厦"]
+    },
+    "accommodation": {
+        "曼谷": ["Baiyoke Sky"]
+    },
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

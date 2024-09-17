@@ -1,0 +1,10 @@
+{
+    "city": ["伊斯坦布尔"],
+    "location": {},
+    "accommodation": {},
+    "restaurant": {
+        "伊斯坦布尔": ["Zubeyir Ocakbasi"]
+    },
+    "app_recommend": ["Googlemap"],
+    "itinerary": []
+}

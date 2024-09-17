@@ -1,0 +1,10 @@
+{
+    "city": ["东京"],
+    "location": {
+        "东京": ["Meguro Catholic Church"]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

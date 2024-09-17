@@ -1,0 +1,12 @@
+{
+    "city": ["普吉岛"],
+    "location": {},
+    "accommodation": {
+        "普吉岛": ["安缦璞瑞酒店"]
+    },
+    "restaurant": {
+        "普吉岛": []
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

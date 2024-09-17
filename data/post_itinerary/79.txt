@@ -1,0 +1,14 @@
+{
+    "city": ["乌海"],
+    "location": {
+        "乌海": ["乌海湖", "满巴拉僧庙", "西部梦幻峡谷"]
+    },
+    "accommodation": {
+        "乌海": []
+    },
+    "restaurant": {
+        "乌海": []
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

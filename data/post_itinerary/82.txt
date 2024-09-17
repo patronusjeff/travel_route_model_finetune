@@ -1,0 +1,10 @@
+{
+    "city": ["奈良"],
+    "location": {
+        "奈良": ["若草山", "奈良公园"]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

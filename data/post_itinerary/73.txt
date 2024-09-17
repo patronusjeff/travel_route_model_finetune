@@ -1,0 +1,12 @@
+{
+    "city": ["曼谷"],
+    "location": {},
+    "accommodation": {
+        "曼谷": ["The Mustang Blu (二楼的精品酒店)"]
+    },
+    "restaurant": {
+        "曼谷": ["The Mustang Blu"]
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

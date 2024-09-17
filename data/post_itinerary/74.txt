@@ -1,0 +1,19 @@
+{
+    "city": ["香港"],
+    "location": {},
+    "accommodation": {},
+    "restaurant": {
+        "香港": [
+            "超人烧鹅",
+            "十二味麻辣香锅",
+            "加拿大人Canadian pizza",
+            "红茶冰室",
+            "Red house",
+            "大围小食",
+            "BHC炸鸡",
+            "moto mala"
+        ]
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

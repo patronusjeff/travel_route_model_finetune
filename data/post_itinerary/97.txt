@@ -1,0 +1,10 @@
+{
+    "city": ["利雅得"],
+    "location": {
+        "利雅得": ["世界尽头", "德拉伊耶古城"]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

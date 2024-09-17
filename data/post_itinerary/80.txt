@@ -1,0 +1,14 @@
+{
+    "city": ["东京"],
+    "location": {
+        "东京": ["锦田公园", "代官山", "涩谷"]
+    },
+    "accommodation": {
+        "东京": ["日本の生活を楽しもう"]
+    },
+    "restaurant": {
+        "东京": []
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

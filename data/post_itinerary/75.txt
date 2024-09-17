@@ -1,0 +1,17 @@
+{
+    "city": ["莫斯科", "圣彼得堡"],
+    "location": {
+        "莫斯科": [],
+        "圣彼得堡": []
+    },
+    "accommodation": {
+        "莫斯科": [],
+        "圣彼得堡": []
+    },
+    "restaurant": {
+        "莫斯科": ["BAGEBI", "Nothing Fancy", "Gorynyth"],
+        "圣彼得堡": ["Rene", "Ponte", "Suliko"]
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

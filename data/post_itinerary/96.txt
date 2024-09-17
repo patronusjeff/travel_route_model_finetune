@@ -1,0 +1,10 @@
+{
+    "city": ["利雅得"],
+    "location": {
+        "利雅得": ["沙特阿拉伯国家博物馆", "德拉伊耶古城", "穆拉巴宫", "图崴山脉"]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

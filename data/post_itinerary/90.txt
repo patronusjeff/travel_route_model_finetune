@@ -1,0 +1,18 @@
+{
+    "city": ["东京"],
+    "location": {},
+    "accommodation": {},
+    "restaurant": {
+        "东京": [
+            "鰻 ひつまぶし 備長",
+            "Torigin Honten",
+            "篝(かがり)",
+            "Toridashioden Samon 鶏だしおでん さもん",
+            "浅草寺浅草今半寿喜烧",
+            "银座天妇罗Tendon Itsuki",
+            "AFURI拉面"
+        ]
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

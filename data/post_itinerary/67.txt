@@ -1,0 +1,12 @@
+{
+    "city": ["巴塞罗那"],
+    "location": {},
+    "accommodation": {
+        "巴塞罗那": ["Ohla Exiample", "seventy Barcelona", "DestinationBCN", "Circa 1905"]
+    },
+    "restaurant": {
+        "巴塞罗那": ["KIN TSUGI", "xerta restaurant"]
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

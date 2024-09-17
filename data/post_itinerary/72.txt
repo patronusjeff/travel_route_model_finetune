@@ -1,0 +1,14 @@
+{
+    "city": ["慕尼黑"],
+    "location": {
+        "慕尼黑": ["玛丽亚广场", "慕尼黑王宫"]
+    },
+    "accommodation": {
+        "慕尼黑": []
+    },
+    "restaurant": {
+        "慕尼黑": ["Vinzenzmurr Metzgerei-München-Maxvorstadt", "airbrau", "Rischart", "HB皇家啤酒屋"]
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

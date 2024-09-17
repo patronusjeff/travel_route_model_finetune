@@ -1,0 +1,36 @@
+{
+    "city": ["布达佩斯"],
+    "location": {
+        "布达佩斯": ["渔人堡", "马加什教堂", "国会大厦", "圣伊什特万圣殿", "多瑙河", "匈牙利国家歌剧院", "链子桥", "鞋履雕像", "QBatthyany ter", "自由桥"]
+    },
+    "accommodation": {
+        "布达佩斯": []
+    },
+    "restaurant": {
+        "布达佩斯": ["Gelarto Rosa", "New York Café", "Ruszwurm Confectionery", "Párisi Passage Café", "Menza Étterem és Kávézó", "Panoramia Cafe & Bar", "Gerbeaud Kávéház"]
+    },
+    "app_recommend": ["Bolt", "飞猪", "支付宝"],
+    "itinerary": [
+        [
+            {"布达佩斯": "圣伊什特万圣殿"},
+            {"布达佩斯": "Gelarto Rosa"},
+            {"布达佩斯": "多瑙河游船"}
+        ],
+        [
+            {"布达佩斯": "New York Café"},
+            {"布达佩斯": "匈牙利国家歌剧院"},
+            {"布达佩斯": "国会大厦"},
+            {"布达佩斯": "鞋履雕像"},
+            {"布达佩斯": "链子桥"},
+            {"布达佩斯": "Ruszwurm Confectionery"},
+            {"布达佩斯": "渔人堡"},
+            {"布达佩斯": "马加什教堂"},
+            {"布达佩斯": "QBatthyany ter"}
+        ],
+        [
+            {"布达佩斯": "Párisi Passage Café"},
+            {"布达佩斯": "自由桥"},
+            {"布达佩斯": "Gerbeaud Kávéház"}
+        ]
+    ]
+}

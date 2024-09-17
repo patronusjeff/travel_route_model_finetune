@@ -1,0 +1,10 @@
+{
+    "city": ["京都"],
+    "location": {
+        "京都": ["西芳寺", "愛宕念佛寺", "琉璃光院", "南禪寺", "天授庵", "三千院", "祐齋亭", "清水寺"]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

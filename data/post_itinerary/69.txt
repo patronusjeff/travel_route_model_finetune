@@ -1,0 +1,12 @@
+{
+    "city": ["米兰"],
+    "location": {
+        "米兰": ["米兰大教堂", "米兰大教堂广场", "埃马努埃莱二世长廊", "斯卡拉歌剧院", "达芬奇展览馆：达芬奇的世界", "斯卡拉广场画廊"]
+    },
+    "accommodation": {
+        "米兰": ["Maison Milano | UNA Esperienze"]
+    },
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

@@ -1,0 +1,14 @@
+{
+    "city": ["华盛顿"],
+    "location": {
+        "华盛顿": ["白宫", "华盛顿纪念碑"]
+    },
+    "accommodation": {
+        "华盛顿": ["Waldorf Astoria Washington DC"]
+    },
+    "restaurant": {
+        "华盛顿": []
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

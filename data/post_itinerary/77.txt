@@ -1,0 +1,10 @@
+{
+    "city": ["东京"],
+    "location": {
+        "东京": ["东京歌剧城音乐厅", "墨田三声音乐厅"]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

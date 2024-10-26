@@ -1,0 +1,26 @@
+{
+    "city": ["奥斯陆"],
+    "location": {
+        "奥斯陆": ["市政厅（Radhuset）", "蒙克博物馆（Munch Museum）", "歌剧院（Operahuset Oslo）", "Aker Brygge购物中心", "国家博物馆", "皇宫（ The Royal Palace）", "阿斯楚普费恩利现代艺术博物馆 （Astrup Fearnley Museet）"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "奥斯陆": ["国家博物馆的餐厅"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"奥斯陆": "市政厅（Radhuset）"},
+            {"奥斯陆": "蒙克博物馆（Munch Museum）"},
+            {"奥斯陆": "歌剧院（Operahuset Oslo）"}
+        ],
+        [
+            {"奥斯陆": "Aker Brygge购物中心"},
+            {"奥斯陆": "国家博物馆"}
+        ],
+        [
+            {"奥斯陆": "皇宫（ The Royal Palace）"},
+            {"奥斯陆": "阿斯楚普费恩利现代艺术博物馆 （Astrup Fearnley Museet）"}
+        ]
+    ]
+}

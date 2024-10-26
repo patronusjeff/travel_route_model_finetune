@@ -1,0 +1,23 @@
+{
+    "city": ["奥克兰"],
+    "location": {
+        "奥克兰": ["天空塔Sky Tower", "阿尔伯特公园Albert park", "奥克兰艺术馆Auckland Art Gallery", "奥克兰市政厅Auckland Town Hall", "伊甸山Mount Eden", "海边码头", "Britomart"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "奥克兰": ["Coco Wild Chocolate"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"奥克兰": "天空塔Sky Tower"},
+            {"奥克兰": "阿尔伯特公园Albert park"},
+            {"奥克兰": "Coco Wild Chocolate"},
+            {"奥克兰": "奥克兰艺术馆Auckland Art Gallery"},
+            {"奥克兰": "奥克兰市政厅Auckland Town Hall"},
+            {"奥克兰": "伊甸山Mount Eden"},
+            {"奥克兰": "海边码头"},
+            {"奥克兰": "Britomart"}
+        ]
+    ]
+}

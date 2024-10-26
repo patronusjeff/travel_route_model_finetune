@@ -1,0 +1,36 @@
+{
+    "city": ["哥德堡(Goteborg)"],
+    "location": {
+        "哥德堡(Goteborg)": [
+            "哥德堡植物园 Gothenburg Botanical Garden",
+            "马斯塔盖特教堂 Masthugget Church",
+            "斯堪森堡",
+            "鱼市教堂",
+            "哥德堡市立博物馆Goteborgs Stadsmuseum",
+            "哥德堡海洋中心 Maritiman",
+            "口红大楼Lilla Bommen",
+            "古斯塔夫阿道夫广场 Gustaf Adolf's Square",
+            "哥特堡美术馆 Gothenburg Museum of Art",
+            "里瑟本主题乐园 Liseberg Amusement Park"
+        ]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "哥德堡(Goteborg)": ["鱼市教堂的第二层餐厅"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"哥德堡(Goteborg)": "哥德堡植物园 Gothenburg Botanical Garden"},
+            {"哥德堡(Goteborg)": "马斯塔盖特教堂 Masthugget Church"},
+            {"哥德堡(Goteborg)": "斯堪森堡"},
+            {"哥德堡(Goteborg)": "鱼市教堂"},
+            {"哥德堡(Goteborg)": "哥德堡市立博物馆Goteborgs Stadsmuseum"},
+            {"哥德堡(Goteborg)": "哥德堡海洋中心 Maritiman"},
+            {"哥德堡(Goteborg)": "口红大楼Lilla Bommen"},
+            {"哥德堡(Goteborg)": "古斯塔夫阿道夫广场 Gustaf Adolf's Square"},
+            {"哥德堡(Goteborg)": "哥特堡美术馆 Gothenburg Museum of Art"},
+            {"哥德堡(Goteborg)": "里瑟本主题乐园 Liseberg Amusement Park"}
+        ]
+    ]
+}

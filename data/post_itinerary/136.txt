@@ -1,0 +1,48 @@
+{
+    "city": ["哥德堡"],
+    "location": {
+        "哥德堡": [
+            "哥德堡歌剧院",
+            "哥德堡海洋中心（Maritiman）",
+            "太空漫步（太陽系模型）",
+            "Plikta lekplats",
+            "Playground 444",
+            "Slottsskogen",
+            "哥德堡植物园",
+            "自然科技馆（Universeum）",
+            "里瑟本游乐园",
+            "哥德堡市立博物馆",
+            "国王公园（Kungsparken）",
+            "Balder木质过山车",
+            "The Garden Society"
+        ]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"哥德堡": "哥德堡歌剧院"}
+        ],
+        [
+            {"哥德堡": "哥德堡海洋中心（Maritiman）"},
+            {"哥德堡": "太空漫步（太陽系模型）"},
+            {"哥德堡": "Plikta lekplats"},
+            {"哥德堡": "Playground 444"},
+            {"哥德堡": "Slottsskogen"},
+            {"哥德堡": "哥德堡植物园"}
+        ],
+        [
+            {"哥德堡": "自然科技馆（Universeum）"},
+            {"哥德堡": "里瑟本游乐园"}
+        ],
+        [
+            {"哥德堡": "哥德堡市立博物馆"},
+            {"哥德堡": "国王公园（Kungsparken）"},
+            {"哥德堡": "Balder木质过山车"}
+        ],
+        [
+            {"哥德堡": "The Garden Society"}
+        ]
+    ]
+}

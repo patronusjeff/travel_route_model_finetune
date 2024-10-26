@@ -1,0 +1,12 @@
+{
+    "city": ["儋州"],
+    "location": {
+        "儋州": ["东坡书院", "海花岛", "龙门激浪"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "儋州": ["琼州糟粕醋火锅"]
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

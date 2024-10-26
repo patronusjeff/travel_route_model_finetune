@@ -1,0 +1,24 @@
+{
+    "city": ["皇后镇"],
+    "location": {
+        "皇后镇": ["Ivan Clarke Gallery", "Starbucks Queenstown", "Cookie Time", "Patagonia Chocolate", "St Peter‘s Anglican Church", "The Bathhouse", "Queenstown Gardens"]
+    },
+    "accommodation": {
+        "皇后镇": ["皇后镇美景阁酒店"]
+    },
+    "restaurant": {
+        "皇后镇": ["湖景皇宫酒楼", "金味德兰州牛肉面", "Le Salon Rouge", "Fergburger"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"皇后镇": "Ivan Clarke Gallery"},
+            {"皇后镇": "Starbucks Queenstown"},
+            {"皇后镇": "Cookie Time"},
+            {"皇后镇": "Patagonia Chocolate"},
+            {"皇后镇": "St Peter‘s Anglican Church"},
+            {"皇后镇": "The Bathhouse"},
+            {"皇后镇": "Queenstown Gardens"}
+        ]
+    ]
+}

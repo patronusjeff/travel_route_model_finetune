@@ -1,0 +1,22 @@
+{
+    "city": ["斯德哥尔摩", "奥斯陆"],
+    "location": {
+        "斯德哥尔摩": ["T-centralen", "Stadion", "Tekniska hogskolan", "市政厅", "老城区", "诺贝尔博物馆", "沉船博物馆"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "斯德哥尔摩": ["Restaurang Kajsas Fisk"]
+    },
+    "app_recommend": ["Bounce", "SL"],
+    "itinerary": [
+        [
+            {"斯德哥尔摩": "斯德哥尔摩地铁站"},
+            {"斯德哥尔摩": "T-centralen"},
+            {"斯德哥尔摩": "Stadion"},
+            {"斯德哥尔摩": "Tekniska hogskolan"},
+            {"斯德哥尔摩": "市政厅"},
+            {"斯德哥尔摩": "老城区"},
+            {"斯德哥尔摩": "诺贝尔博物馆"}
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "city": ["奥克兰"],
+    "location": {
+        "奥克兰": ["queen street", "new market", "pakn save", "one tree hill", "mount eden"]
+    },
+    "accommodation": {
+        "奥克兰": []
+    },
+    "restaurant": {
+        "奥克兰": ["two brothers汉堡"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"奥克兰": "queen street"},
+            {"奥克兰": "new market"},
+            {"奥克兰": "pakn save"},
+            {"奥克兰": "one tree hill"},
+            {"奥克兰": "mount eden"}
+        ]
+    ]
+}

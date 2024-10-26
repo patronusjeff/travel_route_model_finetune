@@ -1,0 +1,41 @@
+{
+    "city": ["哥本哈根", "马尔默"],
+    "location": {
+        "哥本哈根": ["管风琴教堂grundtvig‘s church", "线性公园Superkilen", "罗森堡城堡Rosenborg", "农贸市场Torvehallerne", "安徒生雕像 Statue of Anders Sandøe Ørsted", "小美人鱼The Little Mermaid", "新港nyhavn", "阿玛琳堡宫Amalienborg", "圆塔Rundetaarn", "illum商场"],
+        "马尔默": ["马尔默城堡博物馆", "海边 Ribersborg", "马尔默大学"]
+    },
+    "accommodation": {
+        "哥本哈根": ["Mayfair"],
+        "马尔默": []
+    },
+    "restaurant": {
+        "哥本哈根": ["Hart Bageri", "BUKA", "Kristinedal Burgers"],
+        "马尔默": []
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"哥本哈根": "管风琴教堂grundtvig‘s church"},
+            {"哥本哈根": "线性公园Superkilen"},
+            {"哥本哈根": "罗森堡城堡Rosenborg"},
+            {"哥本哈根": "农贸市场Torvehallerne"},
+            {"哥本哈根": "安徒生雕像 Statue of Anders Sandøe Ørsted"},
+            {"哥本哈根": "小美人鱼The Little Mermaid"},
+            {"哥本哈根": "新港nyhavn"},
+            {"哥本哈根": "阿玛琳堡宫Amalienborg"},
+            {"哥本哈根": "Mayfair"}
+        ],
+        [
+            {"哥本哈根": "Hart Bageri"},
+            {"哥本哈根": "BUKA"},
+            {"哥本哈根": "Kristinedal Burgers"},
+            {"哥本哈根": "圆塔Rundetaarn"},
+            {"哥本哈根": "illum商场"}
+        ],
+        [
+            {"马尔默": "马尔默城堡博物馆"},
+            {"马尔默": "海边 Ribersborg"},
+            {"马尔默": "马尔默大学"}
+        ]
+    ]
+}

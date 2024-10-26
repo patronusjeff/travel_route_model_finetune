@@ -1,0 +1,27 @@
+{
+    "city": ["斯德哥尔摩"],
+    "location": {
+        "斯德哥尔摩": ["斯德哥尔摩市政厅", "老城Gamla stan", "斯德哥尔摩大教堂", "诺贝尔博物馆", "national museum", "modern musset", "皇宫", "lvar lo park", "maraiatorget", "彩虹洞"]
+    },
+    "accommodation": {
+        "斯德哥尔摩": ["T-Centralen"]
+    },
+    "restaurant": {
+        "斯德哥尔摩": []
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"斯德哥尔摩": "斯德哥尔摩市政厅"},
+            {"斯德哥尔摩": "老城Gamla stan"},
+            {"斯德哥尔摩": "斯德哥尔摩大教堂"},
+            {"斯德哥尔摩": "诺贝尔博物馆"},
+            {"斯德哥尔摩": "national museum"},
+            {"斯德哥尔摩": "modern musset"},
+            {"斯德哥尔摩": "皇宫"},
+            {"斯德哥尔摩": "lvar lo park"},
+            {"斯德哥尔摩": "maraiatorget"},
+            {"斯德哥尔摩": "彩虹洞"}
+        ]
+    ]
+}

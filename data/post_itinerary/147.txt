@@ -1,0 +1,24 @@
+{
+    "city": ["惠灵顿"],
+    "location": {
+        "惠灵顿": ["新西兰国会大厦", "惠灵顿博物馆", "Waterfront Walk", "Te Papa新西兰国立博物馆", "City Gallery城市画廊", "Cuba street古巴街", "Old bank"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "惠灵顿": ["El Matador", "duck island ice-cream"]
+    },
+    "app_recommend": ["google地图"],
+    "itinerary": [
+        [
+            {"惠灵顿": "新西兰国会大厦"},
+            {"惠灵顿": "惠灵顿博物馆"},
+            {"惠灵顿": "Waterfront Walk"},
+            {"惠灵顿": "Te Papa新西兰国立博物馆"},
+            {"惠灵顿": "City Gallery城市画廊"},
+            {"惠灵顿": "Cuba street古巴街"},
+            {"惠灵顿": "El Matador"},
+            {"惠灵顿": "duck island ice-cream"},
+            {"惠灵顿": "Old bank"}
+        ]
+    ]
+}

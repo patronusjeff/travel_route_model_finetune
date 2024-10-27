@@ -1,0 +1,22 @@
+{
+    "city": ["布里斯班"],
+    "location": {
+        "布里斯班": ["Queen Street女王步行街", "Holman Street Terminal", "Maritime Musuem Terminal", "Kangaroo Point Lookout袋鼠角", "Howard Smith Wharves", "South Bank Parklands南岸公园"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "布里斯班": ["Joey’s"]
+    },
+    "app_recommend": ["cityhopper网站"],
+    "itinerary": [
+        [
+            {"布里斯班": "Queen Street女王步行街"},
+            {"布里斯班": "Holman Street Terminal"},
+            {"布里斯班": "Maritime Musuem Terminal"},
+            {"布里斯班": "Kangaroo Point Lookout袋鼠角"},
+            {"布里斯班": "Joey’s"},
+            {"布里斯班": "Howard Smith Wharves"},
+            {"布里斯班": "South Bank Parklands南岸公园"}
+        ]
+    ]
+}

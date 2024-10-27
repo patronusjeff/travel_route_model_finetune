@@ -1,0 +1,21 @@
+{
+    "city": ["巴西圣保罗"],
+    "location": {
+        "巴西圣保罗": ["圣保罗人博物馆", "大教堂 Catedral da Sé de São Paulo", "蝙蝠巷 Beco do Batman", "Parque Ibirapuera 公园"]
+    },
+    "accommodation": {
+        "巴西圣保罗": []
+    },
+    "restaurant": {
+        "巴西圣保罗": []
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"巴西圣保罗": "圣保罗人博物馆"},
+            {"巴西圣保罗": "大教堂 Catedral da Sé de São Paulo"},
+            {"巴西圣保罗": "蝙蝠巷 Beco do Batman"},
+            {"巴西圣保罗": "Parque Ibirapuera 公园"}
+        ]
+    ]
+}

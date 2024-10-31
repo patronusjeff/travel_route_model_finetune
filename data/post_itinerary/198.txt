@@ -1,0 +1,32 @@
+{
+    "city": ["布里斯托",
+    "location": {
+        "布里斯托": ["圣玛丽洪崖教堂St Mary Redcliffe Church", "皇后广场BS1 4LH", "摩天轮&海港Harbourside", "布里斯托大教堂Bristol Cathedral", "Bristol City Council市政厅", "卡伯特塔Cabot Tower", "彩虹房子Totterdown", "克林夫顿吊桥Clifton Suspension Bridge", "克林夫顿天文台Clifton Observatory", "知名大斜坡Queen’s Road", "布里斯托城市博物馆与美术馆BS8 1RL", "布里斯托大学Bristol University", "Park Row", "购物中心Bristol Shopping quarter", "圣尼古拉斯集市St Nicholas Market"]
+    },
+    "accommodation": {
+        "布里斯托": []
+    },
+    "restaurant": {
+        "布里斯托": []
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"布里斯托": "圣玛丽洪崖教堂St Mary Redcliffe Church"},
+            {"布里斯托": "皇后广场BS1 4LH"},
+            {"布里斯托": "摩天轮&海港Harbourside"},
+            {"布里斯托": "布里斯托大教堂Bristol Cathedral"},
+            {"布里斯托": "Bristol City Council市政厅"},
+            {"布里斯托": "卡伯特塔Cabot Tower"},
+            {"布里斯托": "彩虹房子Totterdown"},
+            {"布里斯托": "克林夫顿吊桥Clifton Suspension Bridge"},
+            {"布里斯托": "克林夫顿天文台Clifton Observatory"},
+            {"布里斯托": "知名大斜坡Queen’s Road"},
+            {"布里斯托": "布里斯托城市博物馆与美术馆BS8 1RL"},
+            {"布里斯托": "布里斯托大学Bristol University"},
+            {"布里斯托": "Park Row"},
+            {"布里斯托": "购物中心Bristol Shopping quarter"},
+            {"布里斯托": "圣尼古拉斯集市St Nicholas Market"}
+        ]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "city": ["伦敦", "布里斯托"],
+    "location": {
+        "布里斯托": ["St Nicholas' Market", "St Nicholas' Church", "Harbourside", "Bristol Cathedral", "Clifton Suspension Bridge", "Clifton Observatory", "Wills Memorial Building", "Brandon Hill"]
+    },
+    "accommodation": {
+        "布里斯托": []
+    },
+    "restaurant": {
+        "布里斯托": ["Spitfire Barbecue"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"布里斯托": "St Nicholas' Market"},
+            {"布里斯托": "St Nicholas' Church"},
+            {"布里斯托": "Harbourside"},
+            {"布里斯托": "Spitfire Barbecue"},
+            {"布里斯托": "Bristol Cathedral"},
+            {"布里斯托": "Clifton Suspension Bridge"},
+            {"布里斯托": "Clifton Observatory"},
+            {"布里斯托": "Wills Memorial Building"},
+            {"布里斯托": "Brandon Hill"}
+        ]
+    ]
+}

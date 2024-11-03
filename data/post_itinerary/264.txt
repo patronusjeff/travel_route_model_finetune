@@ -1,0 +1,14 @@
+{
+    "city": ["广州"],
+    "location": {
+        "广州": ["海心沙"]
+    },
+    "accommodation": {
+        "广州": ["广州英迪格酒店"]
+    },
+    "restaurant": {
+        "广州": ["屋仔奶香满楼"]
+    },
+    "app_recommend": ["DD旅行"],
+    "itinerary": []
+}

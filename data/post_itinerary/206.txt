@@ -1,0 +1,34 @@
+{
+    "city": ["利物浦"],
+    "location": {
+        "利物浦": [
+            "St George’s Hall",
+            "Central Library",
+            "World Museum",
+            "Cavern Club",
+            "The Beatles Statue",
+            "Royal Albert Dock Liverpool",
+            "Museum of Liverpool",
+            "Tate Liverpool",
+            "The Beatles Story",
+            "Liverpool Cathedral"
+        ]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"利物浦": "St George’s Hall"},
+            {"利物浦": "Central Library"},
+            {"利物浦": "World Museum"},
+            {"利物浦": "Cavern Club"},
+            {"利物浦": "The Beatles Statue"},
+            {"利物浦": "Royal Albert Dock Liverpool"},
+            {"利物浦": "Museum of Liverpool"},
+            {"利物浦": "Tate Liverpool"},
+            {"利物浦": "The Beatles Story"},
+            {"利物浦": "Liverpool Cathedral"}
+        ]
+    ]
+}

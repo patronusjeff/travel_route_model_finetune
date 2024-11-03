@@ -1,0 +1,25 @@
+{
+    "city": ["爱丁堡", "曼城"],
+    "location": {
+        "爱丁堡": ["Waverley Bridge", "Scott Monument司各特纪念塔", "Princes Street 王子街", "Princes Street Gardens王子街花园", "Edingburgh Castle爱丁堡城堡", "Victoria Street维多利亚街", "National Museum of Scotland苏格兰国立博物馆", "St Giles’ Cathedral圣吉尔斯大教堂", "Royal Mile皇家一英里", "Calton Hill卡尔顿山"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "爱丁堡": []
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"爱丁堡": "Waverley Bridge"},
+            {"爱丁堡": "Scott Monument司各特纪念塔"},
+            {"爱丁堡": "Princes Street 王子街"},
+            {"爱丁堡": "Princes Street Gardens王子街花园"},
+            {"爱丁堡": "Edingburgh Castle爱丁堡城堡"},
+            {"爱丁堡": "Victoria Street维多利亚街"},
+            {"爱丁堡": "National Museum of Scotland苏格兰国立博物馆"},
+            {"爱丁堡": "St Giles’ Cathedral圣吉尔斯大教堂"},
+            {"爱丁堡": "Royal Mile皇家一英里"},
+            {"爱丁堡": "Calton Hill卡尔顿山"}
+        ]
+    ]
+}

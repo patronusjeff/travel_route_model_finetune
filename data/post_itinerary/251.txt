@@ -1,0 +1,34 @@
+{
+    "city": ["瓦哈卡"],
+    "location": {
+        "瓦哈卡": [
+            "Jardín Etnobotánico de Oaxaca 植物园",
+            "Museo De La Filatelia MUFI 博物馆",
+            "Marias Arte & Diseño 手工艺品",
+            "Galeria Taller La Maquina 艺术工作坊",
+            "Photographic Center Manuel Álvarez Bravo 摄影中心博物馆",
+            "Santo Domingo Square 古迹地标",
+            "Museum of Cultures of Oaxaca, Santo Domingo 博物馆",
+            "Oaxaca Graphic Arts Institute 艺术中心"
+        ]
+    },
+    "accommodation": {
+        "瓦哈卡": []
+    },
+    "restaurant": {
+        "瓦哈卡": []
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"瓦哈卡": "Jardín Etnobotánico de Oaxaca 植物园"},
+            {"瓦哈卡": "Museo De La Filatelia MUFI 博物馆"},
+            {"瓦哈卡": "Marias Arte & Diseño 手工艺品"},
+            {"瓦哈卡": "Galeria Taller La Maquina 艺术工作坊"},
+            {"瓦哈卡": "Photographic Center Manuel Álvarez Bravo 摄影中心博物馆"},
+            {"瓦哈卡": "Santo Domingo Square 古迹地标"},
+            {"瓦哈卡": "Museum of Cultures of Oaxaca, Santo Domingo 博物馆"},
+            {"瓦哈卡": "Oaxaca Graphic Arts Institute 艺术中心"}
+        ]
+    ]
+}

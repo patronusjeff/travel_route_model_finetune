@@ -1,0 +1,20 @@
+{
+    "city": ["科隆"],
+    "location": {
+        "科隆": ["科隆大教堂", "lindt巧克力博物馆", "Farina"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "科隆": ["Cafe Reichard", "Gaffel am Dom", "Merzenich"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"科隆": "Cafe Reichard"},
+            {"科隆": "lindt巧克力博物馆"},
+            {"科隆": "Gaffel am Dom"},
+            {"科隆": "Merzenich"},
+            {"科隆": "Farina"}
+        ]
+    ]
+}

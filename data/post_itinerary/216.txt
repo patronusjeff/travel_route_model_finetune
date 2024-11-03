@@ -1,0 +1,27 @@
+{
+    "city": ["清迈"],
+    "location": {
+        "清迈": ["宁曼路", "maya商场", "塔佩门", "粘粘瀑布", "大象咖啡馆", "艺术村", "清迈大学"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "清迈": ["Elely cafe", "Enough", "Cafe Arte", "Khagee", "Building A", "GRAPH contemporary", "Flo Coffee Brewers", "Early Owls", "enough for life", "your project"]
+    },
+    "app_recommend": ["Google map", "苹果地图", "grab", "blot", "支付宝"],
+    "itinerary": [
+        [
+            {"清迈": "宁曼路"},
+            {"清迈": "maya商场"},
+            {"清迈": "塔佩门"}
+        ],
+        [
+            {"清迈": "粘粘瀑布"},
+            {"清迈": "大象咖啡馆"}
+        ],
+        [
+            {"清迈": "艺术村"},
+            {"清迈": "Enough"},
+            {"清迈": "清迈大学"}
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "city": ["牛津", "伦敦"],
+    "location": {
+        "牛津": ["基督堂学院", "叹息桥", "主图书馆", "Radcliffe Camera", "圣母玛利亚大学教堂"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "牛津": ["five guys'burger", "the ivy", "the Alice", "thaikhun", "百味居", "G&D’s", "swoon"]
+    },
+    "app_recommend": ["trainline"],
+    "itinerary": [
+        [
+            {"牛津": "基督堂学院"},
+            {"牛津": "叹息桥"},
+            {"牛津": "主图书馆"},
+            {"牛津": "Radcliffe Camera"},
+            {"牛津": "圣母玛利亚大学教堂"}
+        ]
+    ]
+}

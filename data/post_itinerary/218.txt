@@ -1,0 +1,32 @@
+{
+    "city": ["清迈"],
+    "location": {
+        "清迈": ["jing jai market", "椰林集市", "宁曼路", "maya商场", "塔佩门", "清迈大学", "清迈夜市"]
+    },
+    "accommodation": {
+        "清迈": ["兰纳艺术小鹿度假酒店"]
+    },
+    "restaurant": {
+        "清迈": ["khaomao-khao fang", "maadae slow fish kitchen"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"清迈": "jing jai market"},
+            {"清迈": "椰林集市"}
+        ],
+        [
+            {"清迈": "宁曼路"},
+            {"清迈": "maya商场"},
+            {"清迈": "塔佩门"}
+        ],
+        [
+            {"清迈": "清迈大学"},
+            {"清迈": "清迈夜市"}
+        ],
+        [
+            {"清迈": "khaomao-khao fang"},
+            {"清迈": "maadae slow fish kitchen"}
+        ]
+    ]
+}

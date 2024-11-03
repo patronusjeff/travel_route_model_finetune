@@ -1,0 +1,32 @@
+{
+    "city": ["瓦哈卡"],
+    "location": {
+        "瓦哈卡": [
+            "Teotitlán del Valle",
+            "Tlacolula",
+            "Mitla",
+            "Hirve el Agua",
+            "Matatlan",
+            "San Martín Tilcajete",
+            "San Bartolo Coyotepec",
+            "Monte Alban"
+        ]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "瓦哈卡": []
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"瓦哈卡": "Teotitlán del Valle"},
+            {"瓦哈卡": "Tlacolula"},
+            {"瓦哈卡": "Mitla"},
+            {"瓦哈卡": "Hirve el Agua"},
+            {"瓦哈卡": "Matatlan"},
+            {"瓦哈卡": "San Martín Tilcajete"},
+            {"瓦哈卡": "San Bartolo Coyotepec"},
+            {"瓦哈卡": "Monte Alban"}
+        ]
+    ]
+}

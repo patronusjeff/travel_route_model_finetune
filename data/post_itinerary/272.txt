@@ -1,0 +1,10 @@
+{
+    "city": ["奈良市"],
+    "location": {
+        "奈良市": ["东大寺", "奈良公园"]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

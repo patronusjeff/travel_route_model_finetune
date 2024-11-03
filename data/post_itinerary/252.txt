@@ -1,0 +1,52 @@
+{
+    "city": ["墨西哥城"],
+    "location": {
+        "墨西哥城": [
+            "Plaza de Santo Domingo圣多明戈广场",
+            "Mexico City Metropolian墨西哥城市大交通",
+            "Templo Mayor Museum (Zocalo)阿兹特克金字塔遗址博物馆",
+            "National Palace国家宫",
+            "Palacio Postal邮政宫",
+            "Palacio de Bellas Artes美术宫",
+            "chinatown",
+            "玛雅金字塔",
+            "Museo Nacional de Antropologia人类学博物馆",
+            "网红墙Tane",
+            "Museo Soumaya",
+            "贫民窟",
+            "Basilica of Our Lady of Guadalupe瓜达卢佩圣母大教堂",
+            "Bibiloteca Vasconcelos漂浮图书馆",
+            "Castillo de Chapultepec查普特佩克城堡"
+        ]
+    },
+    "accommodation": {
+        "墨西哥城": []
+    },
+    "restaurant": {},
+    "app_recommend": ["uber"],
+    "itinerary": [
+        [
+            {"墨西哥城": "Plaza de Santo Domingo圣多明戈广场"},
+            {"墨西哥城": "Mexico City Metropolian墨西哥城市大交通"},
+            {"墨西哥城": "Templo Mayor Museum (Zocalo)阿兹特克金字塔遗址博物馆"},
+            {"墨西哥城": "National Palace国家宫"},
+            {"墨西哥城": "Palacio Postal邮政宫"},
+            {"墨西哥城": "Palacio de Bellas Artes美术宫"},
+            {"墨西哥城": "chinatown"}
+        ],
+        [
+            {"墨西哥城": "玛雅金字塔"},
+            {"墨西哥城": "Museo Nacional de Antropologia人类学博物馆"},
+            {"墨西哥城": "网红墙Tane"},
+            {"墨西哥城": "Museo Soumaya"}
+        ],
+        [
+            {"墨西哥城": "贫民窟"},
+            {"墨西哥城": "Basilica of Our Lady of Guadalupe瓜达卢佩圣母大教堂"},
+            {"墨西哥城": "Bibiloteca Vasconcelos漂浮图书馆"}
+        ],
+        [
+            {"墨西哥城": "Castillo de Chapultepec查普特佩克城堡"}
+        ]
+    ]
+}

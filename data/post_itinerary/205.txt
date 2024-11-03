@@ -1,0 +1,23 @@
+{
+    "city": ["利物浦"],
+    "location": {
+        "利物浦": ["利物浦大教堂", "Liverpool ONE", "中国城", "Albert码头", "国际奴隶博物馆", "默西海洋博物馆", "Tate利物浦美术馆", "披头四乐队展览馆", "利物浦博物馆", "披头士雕像", "Cavern Club", "名人墙", "West Kriby"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "利物浦": []
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"利物浦": "利物浦大教堂"},
+            {"利物浦": "Liverpool ONE"},
+            {"利物浦": "Albert码头"},
+            {"利物浦": "利物浦博物馆"},
+            {"利物浦": "披头士雕像"},
+            {"利物浦": "Cavern Club"},
+            {"利物浦": "名人墙"},
+            {"利物浦": "West Kriby"}
+        ]
+    ]
+}

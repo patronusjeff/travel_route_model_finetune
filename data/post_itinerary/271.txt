@@ -1,0 +1,10 @@
+{
+    "city": ["埃及"],
+    "location": {
+        "埃及": ["卢克索神庙"]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

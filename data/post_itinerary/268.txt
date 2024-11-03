@@ -1,0 +1,14 @@
+{
+    "city": ["新加坡"],
+    "location": {
+        "新加坡": ["Velocity商场", "cityhall", "乌节路"]
+    },
+    "accommodation": {
+        "新加坡": ["豪亚酒店"]
+    },
+    "restaurant": {
+        "新加坡": ["松发肉骨茶", "mr coconut", "kfc"]
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

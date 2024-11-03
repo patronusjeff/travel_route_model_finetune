@@ -1,0 +1,18 @@
+{
+    "city": ["佛罗伦萨"],
+    "location": {
+        "佛罗伦萨": ["圣母百花教堂", "乌菲兹美术馆", "共和广场"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "佛罗伦萨": ["L opera", "IL Bottegone", "Oste"]
+    },
+    "app_recommend": ["小红书", "Google map", "大众点评"],
+    "itinerary": [
+        [
+            {"佛罗伦萨": "圣母百花教堂"},
+            {"佛罗伦萨": "乌菲兹美术馆"},
+            {"佛罗伦萨": "共和广场"}
+        ]
+    ]
+}

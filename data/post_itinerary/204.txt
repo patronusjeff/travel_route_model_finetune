@@ -1,0 +1,32 @@
+{
+    "city": ["牛津"],
+    "location": {
+        "牛津": [
+            "Chris church cathedral",
+            "Radcliffe Camera",
+            "Bridge of sighs",
+            "Trinity college",
+            "Oxford university museum of natural history",
+            "The Covered Market",
+            "High Street",
+            "Blackwell's",
+            "圣玛利亚大学教堂"
+        ]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"牛津": "Chris church cathedral"},
+            {"牛津": "Radcliffe Camera"},
+            {"牛津": "Bridge of sighs"},
+            {"牛津": "Trinity college"},
+            {"牛津": "Oxford university museum of natural history"},
+            {"牛津": "The Covered Market"},
+            {"牛津": "High Street"},
+            {"牛津": "Blackwell's"},
+            {"牛津": "圣玛利亚大学教堂"}
+        ]
+    ]
+}

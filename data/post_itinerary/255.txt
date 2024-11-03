@@ -1,0 +1,28 @@
+{
+    "city": ["马拉加"],
+    "location": {
+        "马拉加": [
+            "蓬皮杜艺术中心",
+            "毕加索博物馆",
+            "马拉加主教座堂",
+            "海边大道",
+            "Castillo de Gibralfaro山顶城堡",
+            "Mercado Central de Atarazanas集市"
+        ]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "马拉加": []
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"马拉加": "蓬皮杜艺术中心"},
+            {"马拉加": "毕加索博物馆"},
+            {"马拉加": "马拉加主教座堂"},
+            {"马拉加": "海边大道"},
+            {"马拉加": "Castillo de Gibralfaro山顶城堡"},
+            {"马拉加": "Mercado Central de Atarazanas集市"}
+        ]
+    ]
+}

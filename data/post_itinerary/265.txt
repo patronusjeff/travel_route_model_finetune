@@ -1,0 +1,12 @@
+{
+    "city": ["珠海"],
+    "location": {},
+    "accommodation": {
+        "珠海": ["珠海瑞吉酒店"]
+    },
+    "restaurant": {
+        "珠海": []
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

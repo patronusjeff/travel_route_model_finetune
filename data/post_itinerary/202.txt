@@ -1,0 +1,39 @@
+{
+    "city": ["牛津"],
+    "location": {
+        "牛津": [
+            "牛津大学自然历史博物馆",
+            "拉德克利夫图书馆",
+            "叹息桥",
+            "圣玛丽大教堂",
+            "The Covered Market",
+            "基督学院"
+        ]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "牛津": [
+            "The Grand Cafe",
+            "The Covered Market - 泰国菜",
+            "The Covered Market - 中餐馆（西安菜）",
+            "Ben’s Cookies",
+            "Puggi Yoggi",
+            "George & Danver冰淇淋店"
+        ]
+    },
+    "app_recommend": [
+        "trainpal"
+    ],
+    "itinerary": [
+        [
+            {"牛津": "牛津大学自然历史博物馆"},
+            {"牛津": "拉德克利夫图书馆"},
+            {"牛津": "叹息桥"},
+            {"牛津": "The Grand Cafe"},
+            {"牛津": "圣玛丽大教堂"},
+            {"牛津": "The Covered Market"},
+            {"牛津": "George & Danver冰淇淋店"},
+            {"牛津": "基督学院"}
+        ]
+    ]
+}

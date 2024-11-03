@@ -1,0 +1,14 @@
+{
+    "city": ["罗马"],
+    "location": {
+        "罗马": ["西班牙阶梯", "许愿池", "万神殿广场"]
+    },
+    "accommodation": {
+        "罗马": ["Artist's Residence"]
+    },
+    "restaurant": {
+        "罗马": []
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

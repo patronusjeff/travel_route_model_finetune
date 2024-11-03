@@ -1,0 +1,33 @@
+{
+    "city": ["马拉加"],
+    "location": {
+        "马拉加": [
+            "Picasso Museum Málaga",
+            "Alcazaba",
+            "Gibralfaro",
+            "Mercado Central de Atarazanas",
+            "La Malagueta",
+            "Centre Pompidou Málaga"
+        ]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "马拉加": [
+            "Casa Lola",
+            "Pez Lola",
+            "Casa Aranda",
+            "Casa Mira"
+        ]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"马拉加": "Picasso Museum Málaga"},
+            {"马拉加": "Alcazaba"},
+            {"马拉加": "Gibralfaro"},
+            {"马拉加": "Mercado Central de Atarazanas"},
+            {"马拉加": "La Malagueta"},
+            {"马拉加": "Centre Pompidou Málaga"}
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "city": ["墨尔本"],
+    "location": {
+        "墨尔本": ["卡尔顿花园", "墨尔本公园", "South bank", "NGV美术馆", "point ormond", "大洋路吉布森台阶"]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

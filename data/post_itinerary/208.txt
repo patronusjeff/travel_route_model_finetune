@@ -1,0 +1,24 @@
+{
+    "city": ["曼彻斯特", "伦敦", "利物浦", "利兹"],
+    "location": {
+        "曼彻斯特": ["曼彻斯特美术馆 Manchester Art Gallery", "科学与工业博物馆", "约翰·莱兰兹图书馆", "曼彻斯特大教堂Manchester Cathedral", "国家足球博物馆National Football Museum", "北角 Northern Quarter", "唐人街", "阿尔伯特广场Albert Memorial", "图灵纪念像"]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "曼彻斯特": ["Pho家的河粉"]
+    },
+    "app_recommend": [],
+    "itinerary": [
+        [
+            {"曼彻斯特": "曼彻斯特美术馆 Manchester Art Gallery"},
+            {"曼彻斯特": "科学与工业博物馆"},
+            {"曼彻斯特": "约翰·莱兰兹图书馆"},
+            {"曼彻斯特": "曼彻斯特大教堂Manchester Cathedral"},
+            {"曼彻斯特": "国家足球博物馆National Football Museum"},
+            {"曼彻斯特": "北角 Northern Quarter"},
+            {"曼彻斯特": "Pho家的河粉"},
+            {"曼彻斯特": "阿尔伯特广场Albert Memorial"},
+            {"曼彻斯特": "图灵纪念像"}
+        ]
+    ]
+}

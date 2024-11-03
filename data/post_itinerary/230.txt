@@ -1,0 +1,38 @@
+{
+    "city": ["汉堡"],
+    "location": {
+        "汉堡": [
+            "Elbphilharmonie Hamburg",
+            "Spicy's Gewürzmuseum",
+            "Old Boiler House",
+            "Miniatur Wunderland",
+            "St. Nikolai Memorial",
+            "Alster Arcade",
+            "Hamburg Townhall",
+            "Neuer Wall",
+            "Stadthöfe",
+            "Chille House"
+        ]
+    },
+    "accommodation": {},
+    "restaurant": {
+        "汉堡": []
+    },
+    "app_recommend": [
+        "google map"
+    ],
+    "itinerary": [
+        [
+            {"汉堡": "Elbphilharmonie Hamburg"},
+            {"汉堡": "Spicy's Gewürzmuseum"},
+            {"汉堡": "Old Boiler House"},
+            {"汉堡": "Miniatur Wunderland"},
+            {"汉堡": "St. Nikolai Memorial"},
+            {"汉堡": "Alster Arcade"},
+            {"汉堡": "Hamburg Townhall"},
+            {"汉堡": "Neuer Wall"},
+            {"汉堡": "Stadthöfe"},
+            {"汉堡": "Chille House"}
+        ]
+    ]
+}

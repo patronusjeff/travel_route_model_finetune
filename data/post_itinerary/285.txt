@@ -1,0 +1,14 @@
+{
+    "city": ["广州"],
+    "location": {
+        "广州": ["珠江新城", "广州塔"]
+    },
+    "accommodation": {
+        "广州": ["四季酒店", "柏悦酒店"]
+    },
+    "restaurant": {
+        "广州": []
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

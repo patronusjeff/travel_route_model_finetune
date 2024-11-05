@@ -1,0 +1,14 @@
+{
+    "city": ["毛里求斯"],
+    "location": {
+        "毛里求斯": []
+    },
+    "accommodation": {
+        "毛里求斯": ["毛里求斯洲际度假酒店"]
+    },
+    "restaurant": {
+        "毛里求斯": []
+    },
+    "app_recommend": [],
+    "itinerary": []
+}

@@ -1,0 +1,10 @@
+{
+    "city": ["承德"],
+    "location": {
+        "承德": ["避暑山庄", "普陀宗乘之庙", "木兰围场", "金山岭长城", "磬锤峰景区", "双塔山", "普宁寺", "康熙大典"]
+    },
+    "accommodation": {},
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

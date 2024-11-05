@@ -1,0 +1,10 @@
+{
+    "city": ["大阪"],
+    "location": {},
+    "accommodation": {
+        "大阪": ["Hotel The Leben Osaka"]
+    },
+    "restaurant": {},
+    "app_recommend": [],
+    "itinerary": []
+}

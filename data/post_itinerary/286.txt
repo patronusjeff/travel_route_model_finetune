@@ -1,0 +1,14 @@
+{
+    "city": ["京都"],
+    "location": {
+        "京都": ["本能寺"]
+    },
+    "accommodation": {
+        "京都": []
+    },
+    "restaurant": {
+        "京都": []
+    },
+    "app_recommend": [],
+    "itinerary": []
+}
